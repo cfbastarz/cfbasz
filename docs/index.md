@@ -1,4 +1,4 @@
 # Bem-vindo
 
-![cfbastarz](../assets/img/cfbastarz_logo.png "cfbastarz logo")
+![cfbastarz](https://raw.githubusercontent.com/cfbastarz/cfbasz/main/assets/img/cfbastarz_logo.png "cfbastarz logo")
 
