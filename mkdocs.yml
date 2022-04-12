@@ -6,6 +6,7 @@ site_description: Minha página de testes
 # Repository
 repo_name: cfbastarz/cfbasz
 repo_url: https://github.com/cfbastarz/cfbasz
+edit_uri: edit/main/docs/
 
 # Page tree
 nav:
