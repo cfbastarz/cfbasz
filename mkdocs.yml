@@ -11,6 +11,7 @@ edit_uri: edit/main/docs/
 # Page tree
 nav:
   - index.md
+  - curso_intro_latex.md
 
 # Configuration
 theme: 
