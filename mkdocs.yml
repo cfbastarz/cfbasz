@@ -1,0 +1,36 @@
+# Project information
+site_name: cfbasz
+site_author: Carlos Frederico Bastarz
+site_description: Minha página de testes
+
+# Repository
+repo_name: cfbastarz/cfbasz
+repo_url: https://github.com/cfbastarz/cfbasz
+
+# Page tree
+nav:
+  - index.md
+
+# Configuration
+theme: 
+  name: material
+  language: pt-BR
+
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  - tables
+  - admonition
+  - abbr
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+plugins:
+  - mkdocs-video
+  - search
