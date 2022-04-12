@@ -12,7 +12,7 @@ edit_uri: edit/main/docs/
 nav:
   - index.md
   - curso_intro_latex.md
-  - scanplot.md
+  - 'SCANPLOT': cfbastarz/CursoIntroLaTeX/index.md
 
 # Configuration
 theme: 
