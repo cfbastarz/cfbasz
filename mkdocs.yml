@@ -12,6 +12,7 @@ edit_uri: edit/main/docs/
 nav:
   - index.md
   - 'CursoIntroLaTeX': cfbastarz/CursoIntroLaTeX/index.md
+  - MicroService: '!import https://github.com/cfbastarz/cfbasz?branch=CursoIntroLaTeX?docs_dir=docs?multi_docs=False?config=mkdocs.yml'
 
 # Configuration
 theme: 
@@ -36,3 +37,4 @@ markdown_extensions:
 plugins:
   - mkdocs-video
   - search
+  - multirepo
